@@ -20,3 +20,4 @@ You can see some of my work here:
 
 - I'm currently working on a React weather app
 - When I'm not coding I enjoy playing and watching all kinds of sport :soccer:
+- Visit my Linkedin [here](https://www.linkedin.com/in/andrew-bowerman-686104133/)
